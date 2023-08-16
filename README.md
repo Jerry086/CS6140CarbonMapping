@@ -9,7 +9,7 @@ The **Forest Carbon Mapping** is an initiative aimed at accurately estimating an
 - [Introduction](#introduction)
 - [Objectives](#objectives)
 - [Features](#features)
-- [Installation and Usage](#installation and usage)
+- [Installation_and_Usage](#installation and usage)
 - [Contributing](#contributing)
 
 ## Introduction
