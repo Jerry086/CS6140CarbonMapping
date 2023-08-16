@@ -9,7 +9,7 @@ The **Forest Carbon Mapping** is an initiative aimed at accurately estimating an
 - [Introduction](#introduction)
 - [Objectives](#objectives)
 - [Features](#features)
-- [Installation_and_Usage](#installation and usage)
+- [Installation and Usage](#installation-and-Usage)
 - [Contributing](#contributing)
 
 ## Introduction
@@ -28,7 +28,7 @@ The Paris Climate Agreement mandates achieving carbon neutrality by 2100 through
 - **Visualization:** Create interactive maps and visualizations using Google Earth Engine's mapping tools to display carbon distribution within the selected forested area. Utilize customizable layer styling for better visualization.
 - **Export:** Generated carbon stock maps and data can be exported from Google Earth Engine's collaborative environment for further analysis.
 
-## Installation and Usage
+## Installation_and_Usage
 
 1. Clone the repository: `git clone https://github.com/Jerry086/CS6140CarbonMapping.git`
 2. Open the notebook 'Forest_Carbon_Mapping.ipynb' by Colab. Alternatively, you can run the notebook locally by installing the [Earth Engine Python API](https://developers.google.com/earth-engine/guides/python_install) and [Jupyter Notebook](https://jupyter.org/install)
